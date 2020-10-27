@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Candy_App/static/css/main.106baaae.chunk.css",
+    "main.js": "/Candy_App/static/js/main.5ddd483d.chunk.js",
+    "main.js.map": "/Candy_App/static/js/main.5ddd483d.chunk.js.map",
+    "runtime-main.js": "/Candy_App/static/js/runtime-main.ccf0b418.js",
+    "runtime-main.js.map": "/Candy_App/static/js/runtime-main.ccf0b418.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Candy_App/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.3de32a90.chunk.js": "/Candy_App/static/js/2.3de32a90.chunk.js",
+    "static/js/2.3de32a90.chunk.js.map": "/Candy_App/static/js/2.3de32a90.chunk.js.map",
+    "static/js/3.1970f920.chunk.js": "/Candy_App/static/js/3.1970f920.chunk.js",
+    "static/js/3.1970f920.chunk.js.map": "/Candy_App/static/js/3.1970f920.chunk.js.map",
+    "index.html": "/Candy_App/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Candy_App/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.106baaae.chunk.css.map": "/Candy_App/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.3de32a90.chunk.js.LICENSE.txt": "/Candy_App/static/js/2.3de32a90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccf0b418.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.3de32a90.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.5ddd483d.chunk.js"
+  ]
+}
